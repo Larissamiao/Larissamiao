@@ -1,6 +1,6 @@
 # Hi, I'm Larissa 👋
 
-A junior-high student from **Nantong, Jiangsu, China**, who likes turning real-world problems into code.
+A junior-high student from **China**, who likes turning real-world problems into code.
 
 ## 🏆 Featured project
 
@@ -22,4 +22,4 @@ Learning OpenCV to extract building outlines automatically, and validating the a
 
 ---
 
-南通的一名初中生，喜欢把真实问题写成代码。代表作：蒙特卡罗不规则建筑面积模拟优化（江苏省青少年科技创新大赛初中组二等奖、南通市二等奖）。小提琴、书法也在持续学习中。
+一名初中生，喜欢把真实问题写成代码。代表作：蒙特卡罗不规则建筑面积模拟优化（江苏省青少年科技创新大赛初中组二等奖、南通市二等奖）。小提琴、书法也在持续学习中。
