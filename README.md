@@ -1,4 +1,4 @@
-# Hi, I'm Miao Miao （缪妙）👋
+# Hi, I'm Larissa 👋
 
 A junior-high student from **Nantong, Jiangsu, China**, who likes turning real-world problems into code.
 
